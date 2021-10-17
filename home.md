@@ -4,4 +4,4 @@ An overview of all of our available pages with information for both customers an
 # Available Services
 - [Croesus](Croesus)
 - [Godwars Dungeon 2 & 3](Godwars-Dungeon-2-&-3)
-- [Nex: Angel of Death](Nex-Angel-of-Death)
+- [Nex: Angel of Death](/Nex:-Angel-of-Death)
