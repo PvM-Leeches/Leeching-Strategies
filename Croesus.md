@@ -1,4 +1,4 @@
-# Croesus
+# Information
 This page will describe how to force loot to another account, for both mains and ironmen. 
 
 The methods to force loot to someone else are the same for both Mains & Ironmen.
