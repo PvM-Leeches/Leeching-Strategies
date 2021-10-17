@@ -1,5 +1,3 @@
-# Information
-
 ## Mains
 
 ## Ironman
