@@ -1,5 +1,6 @@
 An overview of all of our available pages with information for both customers and sellers.
 
+These pages will describe how the service should be sold and how you can guarantee loot for the customer.
 
 # Available Services
 - [Croesus](/Croesus)
