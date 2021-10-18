@@ -2,6 +2,8 @@ An overview of all of our available pages with information for both customers an
 
 These pages will describe how the service should be sold and how you can guarantee loot for the customer.
 
+Currently this document mainly discusses xlogs but in the future perhaps normal selling methods will be described too.
+
 # Available Services
 - [Croesus](/Croesus)
 - [Elite Dungeons](/Elite-Dungeons)
