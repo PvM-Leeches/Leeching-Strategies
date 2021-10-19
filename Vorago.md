@@ -1,4 +1,4 @@
-# Normal Mode & Hard Mode
+# 5/5 Lootpiles - Normal Mode & Hard Mode
 ## Mainscape
 For `5/5` xlogs, you shield dome maul off global cooldown while the team xlogs.
 
