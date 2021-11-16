@@ -8,6 +8,8 @@ Currently this document mainly discusses xlogs but in the future perhaps normal 
 - [Croesus](/Croesus)
 - [Elite Dungeons](/Elite-Dungeons)
 - [Godwars Dungeon 2 & 3](/Godwars-Dungeon-2-&-3)
+- [Kalphite King](/Kalphite-King)
+- [Nex](/Nex)
 - [Nex: Angel of Death](/Nex:-Angel-of-Death)
 - [Raksha](/Raksha)
 - [Vorago](/Vorago)
