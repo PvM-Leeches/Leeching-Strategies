@@ -1,0 +1,2 @@
+# Information
+If you don't have a teleport animation set (wardrobe -> animation -> teleport animation), you can teleport when Nex dies, you will force your loot to the customer. This allows you to not have to leave the instance early.
