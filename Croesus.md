@@ -5,6 +5,8 @@ The methods to force loot to someone else are the same for both Mains & Ironmen.
 
 If a customer receives piles and you lost piles, the piles you lost should still be refunded.
 
+`Kalun` also made an in-depth guide for Croesus, which you can find [here](https://docs.google.com/document/d/1nibTlJ93MfEp5n5mc_4o8ZUldfUaV-lBcjTct-THv1w/edit).
+
 # Non-AFK Method
 ## Mains & Ironmen
 Non-AFK: You enable lootshare in the `Friends Chat` and bladed dive to the corner of the instance when the kill is close to ending, north-east seems to be the easiest.
