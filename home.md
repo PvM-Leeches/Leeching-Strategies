@@ -8,6 +8,25 @@ Currently this document mainly discusses xlogs but in the future perhaps normal 
 Before selling anything, please read our rules for sales and the service in general first.
 These can be found on the following page: [Sales & Service-Rules](/Sales-&-Service-Rules)
 
+# Calculating Discounts
+Kingofitness made us a calculator to calculate the discount a customer should be given.
+This calculator can be found [here](https://docs.google.com/spreadsheets/d/1x5W913xKnuAkrbwblcfmP8llr63oRjHyT66PVatbqjE/edit?usp=sharing)
+
+One thing to note that it calculates it for ALL SALES even if the discount doesn't apply to that service. 
+
+Below are the sales that are mentioned in the calculator but aren't actually discounted
+- Bundles
+- Skilling-supplies
+- Personal-records 
+- Xlogs
+- Daredevil feats
+- Token/XP farming
+
+Another way to find out if discounts apply to the service you're looking to sell is by using the `/pcleeches` command, followed by the service name.
+
+__Example__: `/pcleeches solak`
+
+
 # Available Services
 - [Croesus](/Croesus)
 - [Elite Dungeons](/Elite-Dungeons)
