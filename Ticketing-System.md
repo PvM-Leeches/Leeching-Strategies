@@ -5,6 +5,8 @@ This page will explain how to use our ticketing system as a seller. Remember: if
 When the customer creates a ticket and selects a service, a message will appear in the appropriate channel. For example: `#mainscape-orders`, `#ironman-orders` or `#skiller-orders`.
 
 The order will follow this format:
+
+
 ![Discord_DjhgngTbln](uploads/ab6cd618bd4283da789edc85f6685d67/Discord_DjhgngTbln.png)
 
 - **1st part** the ticket channel, in this case: `#test-friendliness`.
