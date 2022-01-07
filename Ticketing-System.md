@@ -7,11 +7,11 @@ When the customer creates a ticket and selects a service, a message will appear 
 The order will follow this format:
 ![Discord_DjhgngTbln](uploads/ab6cd618bd4283da789edc85f6685d67/Discord_DjhgngTbln.png)
 
-The first part is the ticket channel, in this case: `#test-friendliness`.
-The second part is the customer's RSN, in this case: `Friendliness`.
-The third part is the service they require, in this case: `Test`.
-The fourth part is the amount of kills / tokens / ... they required, in this case: `1`.
-The final part is the role you require to join said ticket, in this case: `@Test`.
+- **1st part** the ticket channel, in this case: `#test-friendliness`.
+- **2nd part** the customer's RSN, in this case: `Friendliness`.
+- **3rd part** is the service they require, in this case: `Test`.
+- **4th part** is the amount of kills / tokens / ... they required, in this case: `1`.
+- **5th part** is the role you require to join said ticket, in this case: `@Test`.
 
 __Note__: If a ticket has no fixed amount of kills, tokens, etc. it will say `#`.
 
