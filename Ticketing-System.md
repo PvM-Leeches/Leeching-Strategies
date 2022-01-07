@@ -20,7 +20,7 @@ __Note__: If a ticket has no fixed amount of kills, tokens, etc. it will say `#`
 
 As you can see there are also 3 buttons available on every order.
 
-![inv](uploads/9b71b54283bfc224504cfcfa180fc60a/inv.webp) allows you to join the ticket if you have the required role.
+<img src="https://friendli.dev/friendliness/pvm-leeches-strategies/-/wikis/uploads/9b71b54283bfc224504cfcfa180fc60a/inv.webp" width="30px"> allows you to join the ticket if you have the required role.
 
 ✅ marks the order as completed.
 
@@ -30,7 +30,7 @@ As you can see there are also 3 buttons available on every order.
 
 # Step By Step
 - If you spot an order you're interested in, click the 
-![inv](uploads/9b71b54283bfc224504cfcfa180fc60a/inv.webp) button to join it.
+<img src="https://friendli.dev/friendliness/pvm-leeches-strategies/-/wikis/uploads/9b71b54283bfc224504cfcfa180fc60a/inv.webp" width="30px"> button to join it.
 - Now you're able to talk with the customer to discuss a suitable time for you both.
 - Form your team in `#sellers` or `#skilling-sellers`
 
