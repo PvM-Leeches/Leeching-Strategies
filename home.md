@@ -4,6 +4,9 @@ These pages will describe how the service should be sold and how you can guarant
 
 Currently this document mainly discusses xlogs but in the future perhaps normal selling methods will be described too.
 
+# Sales & Service Rules
+[Sales-&-Service-Rules](/Sales-&-Service-Rules)
+
 # Available Services
 - [Croesus](/Croesus)
 - [Elite Dungeons](/Elite-Dungeons)
