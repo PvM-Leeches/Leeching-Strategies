@@ -1,6 +1,12 @@
 # Information
 This page will explain how to use our ticketing system as a seller. Remember: if you have any questions, feel free to tag Support or Moderators.
 
+# Table of Contents
+- [Overview](#Overview)
+- [Step by Step](#Step-By-Step)
+- [TL;DR](#TL;DR)
+
+
 # Overview
 When the customer creates a ticket and selects a service, a message will appear in the appropriate channel. For example: `#mainscape-orders`, `#ironman-orders` or `#skiller-orders`.
 
