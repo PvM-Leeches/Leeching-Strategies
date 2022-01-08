@@ -41,5 +41,11 @@ __Note__: If the service listed `#` as amount, it's important to not hit ✅! Th
 Instead, you would hit ❌ to remove the order and then head to `#add-to-completed` and manually send in the service you completed along with the exact amount you sold.
 
 
+# TL;DR
+- Check the appropriate channel for an order (`#mainscape-orders`, `#ironman-orders` or `#skilling-orders`)
+- Join the ticket by clicking <img src="https://friendli.dev/friendliness/pvm-leeches-strategies/-/wikis/uploads/9b71b54283bfc224504cfcfa180fc60a/inv.webp" width="30px">
+- Sell the service
+- If the amount of services is correct, hit ✅
+- If the amount of services is not correct or is `#`, hit ❌ and post in `#add-to-completed`
 
 
