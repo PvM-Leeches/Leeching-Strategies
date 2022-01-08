@@ -3,8 +3,8 @@ This page will explain how to use our ticketing system as a seller. Remember: if
 
 # Table of Contents
 - [Overview](#overview)
-- [Step by Step](#Step-By-Step)
-- [TL;DR](#TL;DR)
+- [Step by Step](#step-by-step)
+- [TL;DR](#tldr)
 
 
 # Overview
