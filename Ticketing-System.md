@@ -2,7 +2,7 @@
 This page will explain how to use our ticketing system as a seller. Remember: if you have any questions, feel free to tag Support or Moderators.
 
 # Table of Contents
-- [Overview](#Overview)
+- [Overview](#overview)
 - [Step by Step](#Step-By-Step)
 - [TL;DR](#TL;DR)
 
