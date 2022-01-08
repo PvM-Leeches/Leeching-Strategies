@@ -8,6 +8,10 @@ Currently this document mainly discusses xlogs but in the future perhaps normal 
 Before selling anything, please read our rules for sales and the service in general first.
 These can be found on the following page: [Sales & Service-Rules](/Sales-&-Service-Rules)
 
+# Ticketing System
+A complete guide on how our ticketing system works can be found in [here](/Ticketing-System).
+If you have any questions feel free to tag `@Support` or `@Moderator`.
+
 # Calculating Discounts
 Kingofitness made us a calculator to calculate the discount a customer should be given.
 This calculator can be found [here](https://docs.google.com/spreadsheets/d/1x5W913xKnuAkrbwblcfmP8llr63oRjHyT66PVatbqjE/edit?usp=sharing)
