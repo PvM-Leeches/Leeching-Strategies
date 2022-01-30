@@ -8,10 +8,11 @@ Lower down the boss's health to around 10k and teleport out. You can then alread
 
 # Kerapac
 ## Mains
-On main accounts you'll have to ensure you have no teleport animation set in your wardrobe.
-Teleport out at +- 40K HP left and lobby / log out before the customer finishes off the boss. The reason you have to log out is because otherwise you'll be forcing the next staff piece you're supposed to get to the customer. If you log out you'll force their next piece and not the seller's next piece.
+Make sure you disable your teleport animation in your wardrobe for faster teleports. Teleport out at +- 40K HP left and lobby / log out before the customer finishes off the boss. The reason you have to log out is because otherwise you'll be forcing the next staff piece you're supposed to get to the customer. If you log out you'll force their next piece and not the seller's next piece. No lootshare is required.
 
-You can do this with or without lootshare in the `Friends Chat`.
+__Note__: Make sure not to log back in before the customer has killed the boss.
 
 ## Ironman
-For ironmen you'll be using the same strategy as mains will, however you'll be using the `Grouping System` for lootshare.
+Make sure you disable your teleport animation in your wardrobe for faster teleports. Teleport out at +- 40K HP left and lobby / log out before the customer finishes off the boss. The reason you have to log out is because otherwise you'll be forcing the next staff piece you're supposed to get to the customer. If you log out you'll force their next piece and not the seller's next piece. No lootshare is required.
+
+__Note__: Make sure not to log back in before the customer has killed the boss.
