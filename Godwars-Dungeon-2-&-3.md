@@ -9,7 +9,7 @@ Lower down the boss's health to around 10k and teleport out. You can then alread
 # Kerapac
 ## Mains
 On main accounts you'll have to ensure you have no teleport animation set in your wardrobe.
-Teleport out at +- 40K HP left and lobby / log out. The reason you have to log out is because otherwise you'll be forcing the next staff piece you're supposed to get to the customer. If you log out you'll force their next piece and not the seller's next piece.
+Teleport out at +- 40K HP left and lobby / log out before the customer finishes off the boss. The reason you have to log out is because otherwise you'll be forcing the next staff piece you're supposed to get to the customer. If you log out you'll force their next piece and not the seller's next piece.
 
 You can do this with or without lootshare in the `Friends Chat`.
 
