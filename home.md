@@ -1,4 +1,4 @@
-An overview of all of our available pages with information for both customers and sellers.
+An overview of all of our available pages with information for both customers and sellers in the [PvM Leeches](https://discord.gg/pvmleeches) Discord server.
 
 These pages will describe how the service should be sold and how you can guarantee loot for the customer.
 
