@@ -15,7 +15,7 @@
 
 **8.** It is never the Customer's fault if a kill is failed. As sellers you should have the experience to adapt and ensure the Customer does not feel at fault.
 
-
+ez
 # Service Rules
 **1.** No toxicity or flame towards other Sellers, Customers or anyone else inside the Discord. What happens outside of the Discord should not be brought here. Please watch the language you use. If you have an issue with a Seller or Customer please let a @Moderator know. 
 
