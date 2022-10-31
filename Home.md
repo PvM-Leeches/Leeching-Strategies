@@ -6,7 +6,7 @@ Currently this document mainly discusses xlogs but in the future perhaps normal 
 
 # Sales & Service Rules
 Before selling anything, please read our rules for sales and the service in general first.
-These can be found on the following page: [Sales & Service-Rules](/Sales-&-Service-Rules)
+These can be found on the following page: [Sales & Service-Rules](#Sales-&-Service-Rules)
 
 # Ticketing System
 A complete guide on how our ticketing system works can be found in [here](/Ticketing-System).
