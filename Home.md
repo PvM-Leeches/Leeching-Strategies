@@ -37,6 +37,4 @@ __Example__: `/pcleeches solak`
 - [Godwars Dungeon 2 & 3](wiki/Godwars-Dungeon-2-&-3)
 - [Kalphite King](wiki/Kalphite-King)
 - [Nex](wiki/Nex)
-- [Nex: Angel of Death](wiki/Nex:-Angel-of-Death)
-- [Raksha](wiki/Raksha)
 - [Vorago](wiki/Vorago)
