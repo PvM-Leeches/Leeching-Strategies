@@ -12,6 +12,19 @@ These can be found on the following page: [Sales & Service-Rules](wiki/Sales-&-S
 A complete guide on how our ticketing system works can be found in [here](wiki/Ticketing-System).
 If you have any questions feel free to tag `@Support` or `@Moderator`.
 
+# Pinging Customers
+There are a few ways you can find a customer for the service you're trying to sell.
+The regular method is simply joining tickets and pinging the customer, asking if they're currently available.
+
+There is however also a command you can use to ping all customers for a service you're trying to sell: `/pingcustomers`
+When you run this command, in this case with the "Kalphite King 100% Loot" service, you'll see the following appear:
+![image](https://user-images.githubusercontent.com/62225953/227194741-133221ee-fe4a-4c78-9928-afe5a038f4b3.png)
+
+When one of our customers clicks the `Available` button they'll get the following response:
+![image](https://user-images.githubusercontent.com/62225953/227194776-3737720c-9951-43a3-83db-1cd3cdcad4eb.png)
+
+After which the list of available customers will get updated.
+
 # Calculating Discounts
 Kingofitness made us a calculator to calculate the discount a customer should be given.
 This calculator can be found [here](https://docs.google.com/spreadsheets/d/1x5W913xKnuAkrbwblcfmP8llr63oRjHyT66PVatbqjE/edit?usp=sharing)
