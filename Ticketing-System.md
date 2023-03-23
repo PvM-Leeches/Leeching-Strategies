@@ -28,7 +28,7 @@ As you can see there are also 3 buttons available on every order.
 
 ![Screenshot_from_2022-07-01_10-48-31](uploads/49868cc1ac2d06a5816095f40f90dad4/Screenshot_from_2022-07-01_10-48-31.png) marks the order as completed.
 
-![Screenshot_from_2022-07-01_10-48-37](uploads/64e4a9d538c9a4917a65dba31be81059/Screenshot_from_2022-07-01_10-48-37.png) deletes the order - mainly used when a customer cancels their order or when you've added their kills through `#add-to-completed`.
+![Screenshot_from_2022-07-01_10-48-37](uploads/64e4a9d538c9a4917a65dba31be81059/Screenshot_from_2022-07-01_10-48-37.png) deletes the order - mainly used when a customer cancels their order or when you've added their kills by using the `/addtocomp` command or through the `#add-to-completed` channel.
 
 
 
@@ -42,7 +42,7 @@ Once the service is completed, click the ![Screenshot_from_2022-07-01_10-48-31](
 
 __Note__: 
 - If the service listed `#` as amount, you will be asked how many kills you sold to the user and whether you would like to keep the order open or not.
-- If you sold a different amount than the amount listed, you should use `#add-to-completed` instead, or the `/addtocomp` command inside of the customer's ticket. If the order is then finished, delete it by pressing ![Screenshot_from_2022-07-01_10-48-37](uploads/8ad13997266dc5dbb8849467d0b23a87/Screenshot_from_2022-07-01_10-48-37.png).
+- If you sold a different amount than the amount listed, you should use the `/addtocomp` command inside of the customer's ticket or the`#add-to-completed` channel instead. If the order is then finished, delete it by pressing ![Screenshot_from_2022-07-01_10-48-37](uploads/8ad13997266dc5dbb8849467d0b23a87/Screenshot_from_2022-07-01_10-48-37.png).
 
 
 # TL;DR
@@ -50,4 +50,4 @@ __Note__:
 - Join the ticket by clicking ![Screenshot_from_2022-07-01_10-48-25](uploads/84c5d2e7a6601b13bf0e2647cd00b23b/Screenshot_from_2022-07-01_10-48-25.png)
 - Sell the service
 - If the amount of services is correct or is `#`, hit ![Screenshot_from_2022-07-01_10-48-31](uploads/49868cc1ac2d06a5816095f40f90dad4/Screenshot_from_2022-07-01_10-48-31.png)
-- If the amount is not correct and is not `#`, hit ![Screenshot_from_2022-07-01_10-48-37](uploads/8ad13997266dc5dbb8849467d0b23a87/Screenshot_from_2022-07-01_10-48-37.png) and post in `#add-to-completed` or use the `/addtocomp` command inside of the customer's ticket.
+- If the amount is not correct and is not `#`, hit ![Screenshot_from_2022-07-01_10-48-37](uploads/8ad13997266dc5dbb8849467d0b23a87/Screenshot_from_2022-07-01_10-48-37.png) and use the `/addtocomp` command inside of the customer's ticket or post in `#add-to-completed` channel.
