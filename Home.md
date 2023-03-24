@@ -16,7 +16,14 @@ If you have any questions feel free to tag `@Support` or `@Moderator`.
 There are a few ways you can find a customer for the service you're trying to sell.
 The regular method is simply joining tickets and pinging the customer, asking if they're currently available.
 
-There is however also a command you can use to ping all customers for a service you're trying to sell: `/pingcustomers`
+There is however also a command you can use to ping all customers for a service you're trying to sell: `/pingcustomers`.
+The command takes the following arguments: 
+- `service_type` this would be one of the following: `Mainscape`, `Personal Records`, `Miscellaneous`, `Croesus` and `Dungeoneering`.
+- `boss_category` this would be for example: `Vorago`
+- `service_name` this would be the specific service you're trying to ping customers for, eg: `Vorago Reaper`
+- **[Optional]** `max_minutes`, this parameter defines how long the customers get to indicate they're available. Defaults to `10` minutes and allows for a maximum of `60` minutes.
+
+
 When you run this command, in this case with the "Kalphite King 100% Loot" service, you'll see the following appear:
 ![image](https://user-images.githubusercontent.com/62225953/227194741-133221ee-fe4a-4c78-9928-afe5a038f4b3.png)
 
