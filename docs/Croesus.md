@@ -1,6 +1,6 @@
 `Kalun` made an in-depth guide for Croesus, which you can find [here](https://docs.google.com/document/d/1nibTlJ93MfEp5n5mc_4o8ZUldfUaV-lBcjTct-THv1w/edit).
 
-## Seller Guide – Fisher 2mids
+# Seller Guide – Fisher 2mids
 Collect all resources from sparkling nodes. Deposit 16 in box.
 Collect 5-10 rot and 15 fish for your long run.
 After fully depleting run to wcing statue with 15 fish and deposit on the statue.
@@ -24,7 +24,7 @@ Restore fishing statue
 Make sure 3 statues are complete then pray after the 2nd mid energy.
 
 
-## Seller Guide – Miner 2mids
+# Seller Guide – Miner 2mids
 Collect all resources from sparkling node.
 Gather and depo 5-10 fungus on the first kill.
 Gather another 15 fungus to deplete node and take to fish stat.
@@ -43,7 +43,7 @@ With 10k-25k hp left bd/surge off core to start pre mining for the next kill.
 With pre mining you can deposit 15 in the box and take 15 short to fishing statue every kill.
 
 
-## Buyer Guide – 2mids (paste this to them)
+# Buyer Guide – 2mids (paste this to them)
 Buyer can restore wcing statue for easy construction exp if they want it.
 1st energy fungus spawns at 2:23 dd on the hunter and they will clear the sticky.
 2nd mid energy spawns at 5:16. DD on the miner to clear the sticky for max points.
