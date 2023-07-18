@@ -4,8 +4,6 @@ These pages will describe how the service should be sold and how you can guarant
 
 Currently this document mainly discusses xlogs but in the future perhaps normal selling methods will be described too.
 
-Testing.
-
 # Sales & Service Rules
 Before selling anything, please read our rules for sales and the service in general first.
 These can be found on the following page: [Sales & Service-Rules](wiki/Sales-&-Service-Rules)
