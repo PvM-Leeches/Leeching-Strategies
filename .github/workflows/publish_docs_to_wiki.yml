@@ -27,7 +27,7 @@ jobs:
       # 2. Initialize Git
       # 3. Pull old Wiki content
       - name: Pull content from Wiki
-        run: |
+      - run: |
           mkdir tmp_wiki
           cd tmp_wiki
           git init
@@ -37,7 +37,7 @@ jobs:
       # 4. Synchronize differences between `docs` & `tmp_wiki`
       # 5. Push new Wiki content
       - name: Push content to wiki
-        run: |
+      - run: |
           rsync -av --delete docs/ tmp_wiki/ --exclude .git
           cd tmp_wiki
           git add .
