@@ -24,12 +24,15 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+  features:
+    - navigation.tabs
+
 
   nav_style: dark
 
 markdown_extensions:
   - admonition
+  - toc
 
 plugins:
   - search
-  - autorefs
