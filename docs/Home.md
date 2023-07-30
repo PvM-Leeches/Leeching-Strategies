@@ -9,7 +9,7 @@ Before selling anything, please read our rules for sales and the service in gene
 These can be found on the following page: [Sales & Service-Rules](wiki/Sales-&-Service-Rules)
 
 # Ticketing System
-A complete guide on how our ticketing system works can be found in [here](wiki/Ticketing-System).
+A complete guide on how our ticketing system works can be found in [here](Ticketing-System).
 If you have any questions feel free to tag `@Support` or `@Moderator`.
 
 # Pinging Customers
