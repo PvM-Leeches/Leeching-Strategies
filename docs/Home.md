@@ -6,10 +6,10 @@ Currently this document mainly discusses xlogs but in the future perhaps normal 
 
 # Sales & Service Rules
 Before selling anything, please read our rules for sales and the service in general first.
-These can be found on the following page: [Sales & Service-Rules](/Sales-&-Service-Rules)
+These can be found on the following page: [Sales & Service-Rules](Sales-&-Service-Rules)
 
 # Ticketing System
-A complete guide on how our ticketing system works can be found in [here](/Ticketing-System).
+A complete guide on how our ticketing system works can be found in [here](Ticketing-System).
 If you have any questions feel free to tag `@Support` or `@Moderator`.
 
 # Pinging Customers
@@ -52,9 +52,9 @@ __Example__: `/pcleeches solak`
 
 
 # Available Services
-- [Croesus](/Croesus)
-- [Elite Dungeons](/Elite-Dungeons)
-- [Godwars Dungeon 2 & 3](/Godwars-Dungeon-2-&-3)
-- [Kalphite King](/Kalphite-King)
-- [Nex](/Nex)
-- [Vorago](/Vorago)
+- [Croesus](Croesus)
+- [Elite Dungeons](Elite-Dungeons)
+- [Godwars Dungeon 2 & 3](Godwars-Dungeon-2-&-3)
+- [Kalphite King](Kalphite-King)
+- [Nex](Nex)
+- [Vorago](Vorago)
