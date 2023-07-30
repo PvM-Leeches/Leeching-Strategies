@@ -1,5 +1,6 @@
 site_name: PvM Leeches Strategies
 site_description: 'The Strategies for the PvM Leeches Discord server'
+site_url: https://pvm-leeches.github.io
 docs_dir: docs/
 repo_name: 'PvM-Leeches/Leeching-Strategies'
 repo_url: 'https://github.com/PvM-Leeches/Leeching-Strategies'
@@ -34,10 +35,11 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: True
-
+  
 
 plugins:
   - search
   - include_dir_to_nav:
       sort_file: true
       sort_directory: true
+  - autorefs
