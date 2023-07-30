@@ -36,9 +36,8 @@ markdown_extensions:
       permalink: True
 
 
-
 plugins:
   - search
   - include_dir_to_nav:
-    sort_file: true
-    sort_directory: true
+      sort_file: true
+      sort_directory: true
