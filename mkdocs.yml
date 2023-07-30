@@ -5,10 +5,6 @@ docs_dir: docs/
 repo_name: 'PvM-Leeches/Leeching-Strategies'
 repo_url: 'https://github.com/PvM-Leeches/Leeching-Strategies'
 
-nav:
-    - Home: index.md
-
-
 theme:
   name: "material"
   font: Roboto
@@ -36,3 +32,4 @@ markdown_extensions:
 
 plugins:
   - search
+  - autorefs
