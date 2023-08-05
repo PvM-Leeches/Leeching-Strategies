@@ -12,12 +12,12 @@ When the customer creates a ticket and selects a service, a message will appear 
 
 The order will follow this format:
 
-![Screenshot_from_2022-07-01_10-46-12](uploads/25dece9874558202e2d50ecd68135520/Screenshot_from_2022-07-01_10-46-12.png)
+![image](https://github.com/PvM-Leeches/Leeching-Strategies/assets/62225953/0d16c889-e8d4-40b2-89c5-740ff2d6bf8c)
 
-- **1st part** the ticket channel, in this case: `#deleted-channel`.
-- **2nd part** is the service they require, in this case: `Kalphite King Defender Hunt`.
+
+- **1st part** the ticket channel, in this case: `#vindy-loot-blurred`.
+- **2nd part** is the service they require, in this case: `Vindicta 100% Loot`.
 - **3rd part** is the amount of kills / tokens / ... they require, in this case: `#`, meaning the amount is unspecified.
-- **4th part** is the role you require to join said ticket, in this case: `@Kalphite King`.
 
 __Note__: If a ticket has no specified amount of kills, tokens, etc. it will say `#`.
 
@@ -25,6 +25,7 @@ __Note__: If a ticket has no specified amount of kills, tokens, etc. it will say
 As you can see there are also 3 buttons available on every order.
 
 ![Screenshot_from_2022-07-01_10-48-25](uploads/f346bb8222d5b3dac08459febe37369c/Screenshot_from_2022-07-01_10-48-25.png) allows you to join the ticket if you have the required role.
+This button also allows you to leave the ticket if you've already joined it.
 
 ![Screenshot_from_2022-07-01_10-48-31](uploads/49868cc1ac2d06a5816095f40f90dad4/Screenshot_from_2022-07-01_10-48-31.png) marks the order as completed.
 
@@ -42,7 +43,7 @@ Once the service is completed, click the ![Screenshot_from_2022-07-01_10-48-31](
 
 __Note__: 
 - If the service listed `#` as amount, you will be asked how many kills you sold to the user and whether you would like to keep the order open or not.
-- If you sold a different amount than the amount listed, you should use the `/addtocomp` command inside of the customer's ticket or the`#add-to-completed` channel instead. If the order is then finished, delete it by pressing ![Screenshot_from_2022-07-01_10-48-37](uploads/8ad13997266dc5dbb8849467d0b23a87/Screenshot_from_2022-07-01_10-48-37.png).
+- If you sold a different amount than the amount listed, you should preferably use the `/addtocomp` command inside of the customer's ticket or alternatively the`#add-to-completed` channel instead. If the order is then finished, delete it by pressing ![Screenshot_from_2022-07-01_10-48-37](uploads/8ad13997266dc5dbb8849467d0b23a87/Screenshot_from_2022-07-01_10-48-37.png).
 
 
 # TL;DR
