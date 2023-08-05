@@ -18,7 +18,9 @@ The order will follow this format:
 - **1st part** the ticket channel, in this case: `#vindy-loot-blurred`.
 - **2nd part** is the service they require, in this case: `Vindicta 100% Loot`.
 - **3rd part** is the amount of kills / tokens / ... they require, in this case: `#`, meaning the amount is unspecified.
+- **4th part** is the price you'll need to charge them. If no amount of kills / tokens / ... is specified, the price cannot be calculated automatically.
 
+   
 __Note__: If a ticket has no specified amount of kills, tokens, etc. it will say `#`.
 
 
